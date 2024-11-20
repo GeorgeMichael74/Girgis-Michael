@@ -2,7 +2,7 @@
 
 coded by - [Girgis Michael]
 
-![](/fliesen.jpg)
+![](/web.png)
 
 # Getting Started with Create React App
 
