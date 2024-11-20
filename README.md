@@ -1,19 +1,12 @@
-# Live Preview (http://michaeldesign-4.web.app)
+# Live Preview [Click here](http://michaeldesign-4.web.app)
 
-coded by - [Girgis Michael]
+### coded by - Girgis Michael 
 
 ![](/web.png)
 
-# Getting Started with Create React App
+## About
+This website was created by React with HTML, CSS, JavaScript and PHP
 
-This project was bootstrapped with React App using Vite and for Animation using Framer Motion
 
-# Available scripts
 
-In the project directory, you can run:
 
-### npm run dev
-
-Run the app in development mode.
-
-open http://localhost:5173/ to view it in your browser.
